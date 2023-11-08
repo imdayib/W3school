@@ -1,0 +1,17 @@
+{
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.proxy": {
+    "proxyUri": "http://127.0.0.1:5500"
+  },
+  "liveServer.settings.ignoreFiles": [
+
+    ".vscode/**",
+    "**/*.scss",
+    "**/*.sass",
+    "**/*.ts"
+  ],
+  "cSpell.language": "en,lorem",
+  "cSpell.enableFiletypes": [
+    "html"
+  ]
+}
